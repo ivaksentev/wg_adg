@@ -8,6 +8,4 @@ sudo curl -o /etc/docker/containers/wg-easy/docker-compose.yml https://raw.githu
 cd /etc/docker/containers/wg-easy
 
 sudo docker compose up -d
-
-sudo docker compose ps
 ```
